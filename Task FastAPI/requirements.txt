@@ -1,0 +1,5 @@
+FastAPI
+"uvicorn [standard]"
+pdfplumber
+pathlib
+shutil
