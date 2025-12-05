@@ -1,6 +1,6 @@
 Task FaskAPI
 
-Extract test and coordinates from pdf file using pdfplumber and using background tasks for fast process to done tasks on fastAPI and save as json file in the output folder.
+Extract text and coordinates from pdf file using pdfplumber and using background tasks for processes fast to handle tasks on fastAPI and save as the text on json file in the output folder.
 
 config.json consist the directory for folder (input,output,log)
 
