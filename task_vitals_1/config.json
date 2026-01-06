@@ -1,6 +1,0 @@
-{
-    "INPUT_FOLDER":"input",
-    "OUTPUT_FOLDER":"output",
-    "LOG_FOLDER": "logs",
-    "LOG_FILE": "logs/app.log"
-}
